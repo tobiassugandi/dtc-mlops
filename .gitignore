@@ -5,6 +5,7 @@ hello.py
 .DS_Store
 *.db
 mlruns/
+mlartifacts/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
