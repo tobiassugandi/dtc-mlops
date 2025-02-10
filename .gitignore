@@ -6,6 +6,8 @@ hello.py
 *.db
 mlruns/
 mlartifacts/
+2_Experiment_Tracking/data/
+2_Experiment_Tracking/models/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
