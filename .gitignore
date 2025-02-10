@@ -8,6 +8,7 @@ mlruns/
 mlartifacts/
 2_Experiment_Tracking/data/
 2_Experiment_Tracking/models/
+2_Experiment_Tracking/postgres-data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
