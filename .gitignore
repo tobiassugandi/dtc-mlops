@@ -6,9 +6,13 @@ hello.py
 *.db
 mlruns/
 mlartifacts/
-2_Experiment_Tracking/data/
-2_Experiment_Tracking/models/
+# 2_Experiment_Tracking/data/
+# 2_Experiment_Tracking/models/
+models
 2_Experiment_Tracking/postgres-data/
+2_Experiment_Tracking/istio-1.24.2/
+3_Orchestration/mage-quickstart/
+data/ 
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
